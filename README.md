@@ -4,7 +4,7 @@ These are some of the basic implementations in opencv and begineer's image proce
 ## Implementaion
 
 ##### Motion Detection
-<img src="https://github.com/AkhilDixit1998/OpencvPython/blob/master/opencv%20ss/motion%20detection.gif" width="300" height="450">
+<img src="https://github.com/AkhilDixit1998/OpencvPython/blob/master/opencv%20ss/motion%20detection.gif"  height="450">
 
 ##### Object Detection and Computer Control
 
