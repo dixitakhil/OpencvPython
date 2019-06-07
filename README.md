@@ -1,7 +1,7 @@
 # OpencvPython
 These are some of the basic implementations in opencv and begineer's image processing. The codes are present above and some snaps too.
 
-## Implementaion
+## Implementation
 
 ##### Motion Detection
 <img src="https://github.com/AkhilDixit1998/OpencvPython/blob/master/opencv%20ss/motion%20detection.gif"  height="450">
